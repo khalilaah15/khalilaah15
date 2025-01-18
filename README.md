@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub profile!
 
-<!--
-**khalilaah15/khalilaah15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Khalilullah Nuraini**, a passionate Informatics Engineering with a keen interest in building impactful and innovative solutions. Here, you’ll find my journey through coding, experimenting, and creating exciting projects. Let's connect and collaborate!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 About Me
+- 🔹 Currently in **Informatics Engineering** at Universitas Negeri Malang.
+- 🔹 **Head of Mobile Development** at Google Developer Groups on Campus Universitas Negeri Malang.
+- 🔹 Passionate about **Mobile Programming** using **Flutter**.
+
+---
+
+## 🎮 Skills & Tools
+- **Languages:** Dart, Kotlin, Java, C++, PHP.
+- **Frameworks:** Flutter, Native.
+- **Technologies:** VSCODE, Git.
+
+---
+
+## 🌐 Let’s Connect
+- **LinkedIn:** [https://www.linkedin.com/in/khalilullah-nuraini-20246223b/](#)
+- **Instagram:** [https://www.instagram.com/khalilaah.15/](#)
+- **Portfolio Website:** [https://bit.ly/PortofolioKhalilah](#)
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and leave a star ⭐ if you like them. Let’s build something amazing together!
+
+
