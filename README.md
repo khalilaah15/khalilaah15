@@ -19,9 +19,9 @@ I'm **Khalilullah Nuraini**, a passionate Informatics Engineering with a keen in
 ---
 
 ## 🌐 Let’s Connect
-- **LinkedIn:** [https://www.linkedin.com/in/khalilullah-nuraini-20246223b/](#)
-- **Instagram:** [https://www.instagram.com/khalilaah.15/](#)
-- **Portfolio Website:** [https://bit.ly/PortofolioKhalilah](#)
+- [**LinkedIn:**](https://www.linkedin.com/in/khalilullah-nuraini-20246223b/)(#)
+- [**Instagram:**](https://www.instagram.com/khalilaah.15/)(#)
+- [**Portfolio Website:**])https://bit.ly/PortofolioKhalilah)(#)
 
 ---
 
